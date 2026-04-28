@@ -6,7 +6,8 @@ langchain-core
 langchain-text-splitters
 langchain-huggingface
 
-chromadb
+chromadb==0.5.5
+
 pypdf
 numpy
 pandas
@@ -16,3 +17,5 @@ huggingface-hub
 groq
 rich
 Pillow>=11.3.0
+
+protobuf==4.25.3
