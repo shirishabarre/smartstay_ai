@@ -1,8 +1,11 @@
 streamlit
-langchain==0.2.15
-langchain-community==0.2.15
+langchain
+langchain-community
 langchain-core
 langchain-text-splitters
+
+langchain-huggingface
+
 chromadb
 pypdf
 numpy
