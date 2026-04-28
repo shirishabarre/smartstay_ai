@@ -1,5 +1,4 @@
---only-binary=:all:
-streamlit
+streamlit==1.56.0
 langchain
 chromadb
 pypdf
