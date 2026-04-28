@@ -5,6 +5,5 @@ pypdf
 numpy
 pandas
 sentence-transformers
-
-Pillow==10.4.0
 rich
+Pillow==10.4.0
