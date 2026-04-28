@@ -1,9 +1,9 @@
 streamlit
+
 langchain
 langchain-community
 langchain-core
 langchain-text-splitters
-
 langchain-huggingface
 
 chromadb
@@ -11,6 +11,8 @@ pypdf
 numpy
 pandas
 sentence-transformers
+huggingface-hub
+
+groq
 rich
 Pillow>=11.3.0
-groq
